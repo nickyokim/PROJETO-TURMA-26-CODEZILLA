@@ -1,3 +1,31 @@
-# PROJETO-TURMA-26-CODEZILLA
+# Projeto Desenvolvimento de Software 02/2022
 
-## nome dos intergrantes :
+* Universidade Nove de Julho
+* Curso : Sistemas de Informação
+
+# Integrantes 
+
+* Allan Tavares de Souza Feitosa
+* Gabriel de Lima Sovrani
+* Gabriel Gomes Mares
+* Maria Clara Souza Genezini
+* Marcelo Monteiro Alves Filho
+* Mateus Machado Freire
+* Matheus Mattos
+* Nicky Oishi Kim
+* Pablo Henrique da Silva Nunes
+* Rony Alves Dias
+* Tiago Borges Silva
+
+# Instrutor
+
+* Prof : Debora Virgilia Canne
+* Disciplina : Projeto em desenvolvimento de software
+* Turma : 26, segundo semestre de 2022
+
+# Base do código:
+
+* https://github.com/koolkishan/netflix-clone-react-node
+
+
+
